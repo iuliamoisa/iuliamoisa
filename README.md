@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**iuliamoisa/iuliamoisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🤗
+I am an aspiring software engineer currently pursuing a Master’s degree in Databases and Business Support at Bucharest University of Economic Studies (ASE).
+With a background in Computer Science from Alexandru Ioan Cuza University, I’ve developed skills in various areas of software development, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, Python, JavaScript, HTML/CSS
+- **Developer Tools:** Git, VS Code, PyCharm, IntelliJ
+
+I am actively seeking opportunities to further develop my expertise and gain practical experience in a professional setting. 
+
+
+## 🌟 About Me
+- **Current Studies:** Master’s Degree in Databases and Business Support, Bucharest University of Economic Studies (ASE) 
+- **Bachelor’s Degree:** Computer Science, Alexandru Ioan Cuza University (2021 - 2024)
+- **Previous Education:** Mathematics and Computer Science profile, Roman Voda National College (2017 - 2021)
+
+
+## 📫 Contact
+- **Email:** [iuliam230@gmail.com](mailto:iuliam230@gmail.com)
+- **LinkedIn:** [linkedin.com/in/iuliaaem](https://www.linkedin.com/in/iuliaaem)
+
+💫 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! 💫
